@@ -1,4 +1,4 @@
-# Mac OS Homebrew Needed Programs
+# Mac OS Homebrew Needed Software
 Use Homebrew to install all needed programs for your Mac OS
 
 ## Install Homebrew

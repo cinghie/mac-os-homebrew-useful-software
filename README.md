@@ -7,6 +7,13 @@ Use Homebrew to install all needed programs for your Mac OS
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
+## Update Homebrew
+
+```
+brew update
+brew upgrade
+```
+
 ## Useful Software
 
 ```

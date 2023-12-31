@@ -41,6 +41,7 @@ brew install --cask virtualbox
 ```
 brew install wget
 brew install git
+brew install cocoapods
 brew install --cask xampp
 brew install --cask github
 brew install --cask phpstorm

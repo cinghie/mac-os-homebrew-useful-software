@@ -51,6 +51,12 @@ brew install --cask visual-studio
 brew install --cask postman
 ```
 
+## Development Software Mac OS Catalina 10.15
+
+```
+sudo gem install -n /usr/local/bin cocoapods -v 1.8.4
+```
+
 ## Game Software
 
 ```

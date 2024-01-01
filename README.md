@@ -41,6 +41,7 @@ brew install --cask virtualbox
 ```
 brew install wget
 brew install git
+brew install openjdk
 brew install cocoapods
 brew install --cask xampp
 brew install --cask github
@@ -49,12 +50,6 @@ brew install --cask poedit
 brew install --cask android-studio
 brew install --cask visual-studio
 brew install --cask postman
-```
-
-## Development Software Mac OS Catalina 10.15
-
-```
-sudo gem install -n /usr/local/bin cocoapods -v 1.8.4
 ```
 
 ## Game Software

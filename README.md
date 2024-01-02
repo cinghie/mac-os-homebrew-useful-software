@@ -17,6 +17,7 @@ brew upgrade
 ## Useful Software
 
 ```
+brew install --cask macfuse
 brew install --cask avg-antivirus
 brew install --cask the-unarchiver
 brew install --cask firefox

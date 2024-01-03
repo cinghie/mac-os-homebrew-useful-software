@@ -41,6 +41,7 @@ brew install --cask virtualbox
 
 ```
 brew install wget
+brew install curl
 brew install git
 brew install openjdk
 brew install composer

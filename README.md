@@ -44,6 +44,7 @@ brew install wget
 brew install git
 brew install openjdk
 brew install composer
+brew install php@8.1
 brew install cocoapods
 brew install --cask xampp
 brew install --cask github

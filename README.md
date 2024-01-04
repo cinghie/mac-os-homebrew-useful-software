@@ -54,6 +54,7 @@ brew install --cask phpstorm
 brew install --cask poedit
 brew install --cask android-studio
 brew install --cask visual-studio
+brew install --cask visual-studio-code
 brew install --cask postman
 ```
 

@@ -47,6 +47,7 @@ brew install openjdk
 brew install composer
 brew install php@8.1
 brew install cocoapods
+brew install node
 brew install --cask xampp
 brew install --cask github
 brew install --cask phpstorm

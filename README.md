@@ -48,6 +48,8 @@ brew install composer
 brew install php@8.1
 brew install cocoapods
 brew install node
+brew install watchman
+npm install -g react-native-cli
 brew install --cask xampp
 brew install --cask github
 brew install --cask phpstorm

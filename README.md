@@ -33,6 +33,7 @@ brew install --cask franz
 brew install --cask skype
 brew install --cask free-download-manager
 brew install --cask macpass
+brew install --cask anydesk
 brew install --cask teamviewer
 brew install --cask virtualbox
 ```

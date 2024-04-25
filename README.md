@@ -50,6 +50,7 @@ brew install php@8.1
 brew install cocoapods
 brew install node
 brew install watchman
+brew install imagemagick
 npm install -g react-native-cli
 brew install --cask xampp
 brew install --cask github

@@ -56,6 +56,7 @@ brew install --cask xampp
 brew install --cask github
 brew install --cask phpstorm
 brew install --cask poedit
+brew install --cask mysqlworkbench
 brew install --cask android-studio
 brew install --cask visual-studio
 brew install --cask visual-studio-code

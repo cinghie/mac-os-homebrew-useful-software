@@ -51,6 +51,7 @@ brew install cocoapods
 brew install node
 brew install watchman
 brew install imagemagick
+brew install ffmpeg
 npm install -g react-native-cli
 brew install --cask xampp
 brew install --cask github

@@ -27,6 +27,7 @@ brew install --cask thunderbird
 brew install --cask vlc
 brew install --cask spotify
 brew install --cask gimp
+brew install --cask adobe-acrobat-reader
 brew install --cask libreoffice
 brew install --cask libreoffice-language-pack
 brew install --cask franz

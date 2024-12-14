@@ -75,6 +75,7 @@ brew install --cask steam
 
 https://www.google.com/intl/it_it/chrome/  
 https://www.google.it/intl/it/drive/download/  
+https://www.photopea.com/  
 
 ## See
 

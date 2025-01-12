@@ -65,6 +65,26 @@ brew install --cask visual-studio-code
 brew install --cask postman
 ```
 
+## Setting XAMPP Permissions
+
+```
+sudo nano /Applications/XAMPP/xamppfiles/etc/httpd.conf
+```
+
+change
+
+```
+User nobody
+Group nogroup
+```
+
+to
+
+```
+User your_mac_username
+Group staff
+```
+
 ## Game Software
 
 ```
@@ -80,3 +100,5 @@ https://www.photopea.com/
 ## See
 
 https://brew.sh/
+https://medium.com/@oscarmwana/quick-fix-wordpress-xampp-permissions-error-on-mac-e8cd843ef261  
+

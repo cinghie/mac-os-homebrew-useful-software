@@ -99,6 +99,6 @@ https://www.photopea.com/
 
 ## See
 
-https://brew.sh/
+https://brew.sh/  
 https://medium.com/@oscarmwana/quick-fix-wordpress-xampp-permissions-error-on-mac-e8cd843ef261  
 https://blog.devgenius.io/switching-php-versions-on-macos-using-homebrew-2ee3058c8239  

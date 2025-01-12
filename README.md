@@ -47,7 +47,7 @@ brew install curl
 brew install git
 brew install openjdk
 brew install composer
-brew install php@8.1
+brew install php@8.2
 brew install cocoapods
 brew install node
 brew install watchman

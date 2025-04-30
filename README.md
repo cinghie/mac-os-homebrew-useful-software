@@ -31,7 +31,6 @@ brew install --cask adobe-acrobat-reader
 brew install --cask libreoffice
 brew install --cask libreoffice-language-pack
 brew install --cask franz
-brew install --cask skype
 brew install --cask free-download-manager
 brew install --cask macpass
 brew install --cask anydesk
@@ -55,6 +54,7 @@ brew install imagemagick
 brew install ffmpeg
 npm install -g react-native-cli
 brew install --cask xampp
+brew install --cask docker  
 brew install --cask github
 brew install --cask phpstorm
 brew install --cask poedit

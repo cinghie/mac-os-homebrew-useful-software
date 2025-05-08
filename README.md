@@ -20,6 +20,7 @@ brew upgrade
 brew install --cask macfuse
 brew install --cask avg-antivirus
 brew install --cask the-unarchiver
+brew install --cask google-chrome
 brew install --cask firefox
 brew install --cask opera
 brew install --cask tor-browser

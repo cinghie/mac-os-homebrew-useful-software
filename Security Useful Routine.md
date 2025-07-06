@@ -19,7 +19,7 @@ Preferenze di Sistema > Sicurezza e Privacy > FileVault
 
 ```
 Preferenze di Sistema > Sicurezza e Privacy > Firewall
-``
+```
 
  - Install Homebrew
 

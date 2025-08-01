@@ -47,7 +47,11 @@ brew install curl
 brew install git
 brew install openjdk
 brew install composer
-brew install php@8.2
+brew install php@8.2 && brew link --overwrite --force php@8.2 && php -v
+brew install autoconf pkg-config icu4c libzip jpeg libpng freetype openssl@1.1 zlib
+php --ini
+sudo nano /opt/homebrew/etc/php/8.2/php.ini
+brew services restart php@8.2
 brew install cocoapods
 brew install node
 brew install watchman

@@ -43,5 +43,5 @@ brew install --cask avg-antivirus
 ```
 
 ```
-brew install --cask macfuse && brew install --cask malwarebytes && brew install --cask avg-antivirus
+brew install --cask macfuse malwarebytes avg-antivirus
 ```

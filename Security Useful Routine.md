@@ -15,10 +15,17 @@ Preferenze di Sistema > Aggiornamento Software > attiva aggiornamenti automatici
 ```
 Preferenze di Sistema > Sicurezza e Privacy > FileVault
 ```
+
  - Attivare il Firewall di MacOS
 
 ```
 Preferenze di Sistema > Sicurezza e Privacy > Firewall
+```
+
+ - Settore Nome del Mac
+
+```
+Preferenze di Sistema > Generali > Info > Nome
 ```
 
  - Install Homebrew

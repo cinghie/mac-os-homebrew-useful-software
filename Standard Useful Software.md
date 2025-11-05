@@ -66,6 +66,25 @@ Quickly Command
 brew install --cask adobe-creative-cloud blender upscayl
 ```
 
+## Authorization Tree
+
+| App                                        | Permessi da concedere (TCC)                                             | Motivo                              |
+| ------------------------------------------ | ----------------------------------------------------------------------- | ----------------------------------- |
+| **Google Drive**                           | Accesso a File e Cartelle, Disco completo                               | Sincronizzazione dei file locali    |
+| **Google Chat**                            | Notifiche, eventualmente Microfono/Camera                               | Chat e chiamate                     |
+| **Chrome / Firefox / Opera / Tor Browser** | Microfono, Fotocamera, Download, Notifiche                              | Videocall, allegati, ecc.           |
+| **Thunderbird**                            | Accesso File, Notifiche                                                 | Gestione allegati email             |
+| **VLC**                                    | Accesso File, eventualmente Microfono                                   | Riproduzione contenuti locali       |
+| **Spotify**                                | Nessuno critico (solo rete e audio)                                     | —                                   |
+| **Adobe Acrobat Reader**                   | Accesso File e Cartelle                                                 | Lettura/scrittura PDF               |
+| **Microsoft Office / LibreOffice**         | Accesso File e Cartelle                                                 | Aprire e salvare file nei Documenti |
+| **Notion / Canva / Affinity / CapCut**     | Accesso File e Cartelle, Fotocamera                                     | Import/export di immagini e video   |
+| **Slack / Zoom / Teams / Webex / Discord** | **Microfono**, **Fotocamera**, **Registrazione schermo**, **Notifiche** | Videoconferenze                     |
+| **WhatsApp / Telegram**                    | Microfono, Fotocamera                                                   | Messaggi vocali e video             |
+| **AnyDesk / TeamViewer**                   | **Accessibilità**, **Registrazione schermo**, **Full Disk Access**      | Controllo remoto e assistenza       |
+| **ImageOptim / The Unarchiver / FontBase** | Accesso File                                                            | Compressione e gestione file        |
+| **macFUSE**                                | Autorizzazione estensione kernel (dovuta una volta)                     | Filesystem virtuale                 |
+
 ## Not Homebrew Software
 
 https://apps.apple.com/it/app/tiktok-video-live-e-musica/id835599320

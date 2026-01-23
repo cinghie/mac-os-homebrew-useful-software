@@ -40,6 +40,10 @@ brew install --cask teamviewer
 brew install --cask xampp  
 ```
 
+```
+brew install wget curl git openjdk composer node imagemagick ffmpeg && brew install --cask anydesk cursor cyberduck docker github mysqlworkbench nordvpn postman phpstorm poedit slack teamviewer xampp
+```
+
 ## Other Software
 
 ```

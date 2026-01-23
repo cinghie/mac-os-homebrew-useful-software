@@ -36,6 +36,10 @@ brew install --cask free-download-manager
 brew install --cask macpass
 ```
 
+```
+brew install --cask macfuse avg-antivirus the-unarchiver google-drive google-chrome firefox opera tor-browser thunderbird vlc spotify adobe-acrobat-reader libreoffice libreoffice-language-pack whatsapp free-download-manager macpass onyx appcleaner
+```
+
 ## Not Homebrew Software
 
 https://www.photopea.com/  

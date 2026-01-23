@@ -1,0 +1,28 @@
+# Mac OS Homebrew Useful Software
+Use Homebrew to install all needed programs for your Mac OS
+
+## Install Homebrew
+
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+## Update Homebrew
+
+```
+brew update
+brew upgrade
+```
+
+## Useful Software
+
+```
+brew install --cask steam
+brew install --cask epic-games
+brew install --cask nvidia-geforce-now
+```
+
+Netflix: https://apps.apple.com/it/app/netflix/id363590051
+Prime Video: https://apps.apple.com/it/app/amazon-prime-video/id545519333
+SkyGo: https://apps.apple.com/it/app/sky-go/id454435005
+

@@ -22,24 +22,29 @@ brew install curl
 brew install git
 brew install openjdk
 brew install composer
-brew install php@8.2
-brew install php@8.4
-brew install cocoapods
 brew install node
-brew install watchman
 brew install imagemagick
 brew install ffmpeg
-npm install -g react-native-cli
-brew install --cask xampp
+brew install --cask anydesk
+brew install --cask cursor
+brew install --cask cyberduck  
 brew install --cask docker  
 brew install --cask github
-brew install --cask postman
-brew install --cask phpstorm
-brew install --cask poedit
 brew install --cask mysqlworkbench
-brew install --cask android-studio
-brew install --cask visual-studio
-brew install --cask visual-studio-code
+brew install --cask nordvpn  
+brew install --cask postman
+brew install --cask phpstorm  
+brew install --cask poedit  
+brew install --cask slack  
+brew install --cask teamviewer  
+brew install --cask xampp  
+```
+
+## Other Software
+
+```
+https://www.photopea.com/
+https://filezilla-project.org/  
 ```
 
 ## Setting XAMPP Permissions

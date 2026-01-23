@@ -31,12 +31,9 @@ brew install --cask spotify
 brew install --cask adobe-acrobat-reader
 brew install --cask libreoffice
 brew install --cask libreoffice-language-pack
-brew install --cask franz
-brew install --cask slack
+brew install --cask whatsapp
 brew install --cask free-download-manager
 brew install --cask macpass
-brew install --cask anydesk
-brew install --cask teamviewer
 ```
 
 ## Not Homebrew Software

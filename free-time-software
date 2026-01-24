@@ -22,7 +22,10 @@ brew install --cask epic-games
 brew install --cask nvidia-geforce-now
 ```
 
+```
+brew install --cask steam epic-games nvidia-geforce-now
+```
+
 Netflix: https://apps.apple.com/it/app/netflix/id363590051
 Prime Video: https://apps.apple.com/it/app/amazon-prime-video/id545519333
 SkyGo: https://apps.apple.com/it/app/sky-go/id454435005
-
